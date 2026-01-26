@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "owner": "Sazid Hossain",
+    "role": "Creative Technologist & Web Strategist",
+    "philosophy": "Have a Cherish and Have it"
+  },
+  "projects": [
+    {
+      "slug": "shikkha-somaponi-utshob-45",
+      "name": "Shikkha Somaponi Utshob 45",
+      "description": "JU Rag Day celebration project.",
+      "tags": ["event", "design"],
+      "cover": "/assets/ssu45.jpg",
+      "date": "2025-02-01",
+      "live": ""
+    }
+  ],
+  "features": {
+    "showTestimonials": true,
+    "enableDarkMode": true
+  }
+}
