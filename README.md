@@ -5,7 +5,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](https://nexus-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saazidhossain)
-[![Behance](https://img.shields.io/badge/Behance-View%20Designs-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://pinterest.com/saazidhossain)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Designs-0A66C2?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/in/saazidhossain)
+[![Behance](https://img.shields.io/badge/Behance-EXPLORE-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://behance.com/in/saazidhossain)
 
 ---
 
