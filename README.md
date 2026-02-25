@@ -28,12 +28,6 @@ I don't just write code; I design sustainable digital ecosystems. My philosophy 
 
 ---
 
-### 📊 **GitHub Analytics**
-![Sazid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saazidhossain&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saazidhossain&layout=compact&theme=radical&hide_border=true)
-
----
-
 <div align="center">
   <i>"Have a Cherish and Have it."</i><br>
   <b>© 2026 Sazid Hossain</b>
